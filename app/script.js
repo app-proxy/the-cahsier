@@ -1,16 +1,16 @@
 // itemData Database
 var itemData = [
-    "Silverqueen",
-    "Ice Cream",
-    "Battery",
-    "Apple"
+    "Bier",
+    "Schnitzel",
+    "Batterie",
+    "Apfel"
 ];
 
 var priceData = [
-    15000,
-    7000,
-    3000,
-    2000
+    2,
+    5,
+    6,
+    1
 ];
 
 // CRUD FUNCTION
